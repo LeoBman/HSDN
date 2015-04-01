@@ -575,7 +575,7 @@
 573	Osteoarthritis, Knee	4135	D020370
 574	Rhinitis, Allergic, Perennial	4130	D012221
 575	Porphyrias	4123	D011164
-576	Poisoning	4119	NA
+576	Poisoning	4119	
 577	Bird Diseases	4116	D001715
 578	Anemia, Hypochromic	4105	D000747
 579	Spinal Cord Neoplasms	4104	D013120
@@ -2247,7 +2247,7 @@
 2245	Parathyroid Diseases	606	D010279
 2246	Toxoplasmosis, Cerebral	605	D016781
 2247	Myotonia	605	D009222
-2248	Overdose	604	NA
+2248	Overdose	604	
 2249	Taeniasis	603	D013622
 2250	Bronchogenic Cyst	603	D001994
 2251	Hepatic Veno-Occlusive Disease	603	D006504
@@ -4297,7 +4297,7 @@
 4295	Ciliophora Infections	11	D016770
 4296	Colloid Cysts	11	D056364
 4297	Desmoplastic Small Round Cell Tumor	11	D058405
-4298	Pontine Glioma	11	NA
+4298	Pontine Glioma	11	
 4299	Arachnodactyly	11	D054119
 4300	Cerebral Ventriculitis	11	D058565
 4301	Smith-Magenis Syndrome	11	D058496
